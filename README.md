@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 - 💻 Languages: C++, Python, JavaScript  
-- 🌐 Web Dev: HTML, CSS, React.js, Node.js  
+- 🌐 Web Dev: HTML, CSS, React.js, Node.js, Express, Jquery, PHP, Tailwind CSS.  
 - 🗄️ Databases: MySQL, MongoDB  
 - ⚙️ Tools: Git, GitHub, VS Code, Postman
 
