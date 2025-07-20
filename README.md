@@ -17,13 +17,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjilani443&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjilani443&layout=compact&theme=radical)
-
----
-
 ## ⚡ Fun Fact
 
 I write code like I brew coffee — strong, consistent, and a bit buggy at times ☕😄
